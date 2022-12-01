@@ -200,7 +200,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "4085199116260485903": {
+        "type": "shopify:\/\/apps\/ava-trust-badges-sales-pop-up\/blocks\/app-badge-footer-block\/45454b7f-f6a7-4852-b770-8e0c3992a226",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
